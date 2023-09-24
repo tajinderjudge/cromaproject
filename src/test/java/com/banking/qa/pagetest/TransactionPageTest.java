@@ -43,6 +43,11 @@ public class TransactionPageTest extends Base{
 		tranPage.deposit();
 		
 	}
+	@Test
+	public void gittestmethod()
+	{
+		System.out.println("It is my git testing method");
+	}
 	
 	
 	
